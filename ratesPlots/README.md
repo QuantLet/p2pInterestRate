@@ -6,17 +6,18 @@
 
 Name of QuantLet: ratePlots
 
-Published in: p2pInterestRate
+Published in: Crypto loans
 
 Description: Interest rate plots of USDC hourly borrowing rate on Compound, AAVE v1 and v2. 
 
-Keywords: p2p, lending, crpyto, CP2P, interest rate, borrowing rate, stochastics
+Keywords: p2p, lending, crypto, CP2P, interest rate, borrowing rate
 
 Author: Francis Liu
 
 Submitted: Wed, June 8 2022 by Francis Liu
 
 ```
+
 
 ![Picture1](USDC.png)
 

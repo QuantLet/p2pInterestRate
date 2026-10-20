@@ -9,7 +9,7 @@ Name of QuantLet: resultsPlots
 
 Published in: Crypto loans
 
-Description: Plots in the paper "Crypto loans
+Description: Plots in the paper "Crypto loans"
 
 Keywords: p2p, lending, crypto, CP2P, interest rate, borrowing rate, American barrier option
 
